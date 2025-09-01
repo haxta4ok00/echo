@@ -1,0 +1,7 @@
+name = "cf-worker-proxy"
+main = "src/worker.js"
+compatibility_date = "2025-09-01"
+
+# Uncomment to allow requests to private IPs (NOT recommended)
+# [vars]
+# ALLOW_PRIVATE = "true"
